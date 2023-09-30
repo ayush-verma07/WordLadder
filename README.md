@@ -17,7 +17,9 @@ If done correctly, your program should produce the output seen in the "output.tx
 
 **Pieces of Advice:**
 Test your methods as you go – don't wait until you've coded the entire project to test that individual components work.
+
 Make your algorithim efficient (otherwise it'll take up to an hour to receive output!). If you test my algorithim, you will notice that it is able to print the first 8 pairs (from the input file) after a minute, however it will take 10-15mins to print all outputs. So, try to find some innovative ways to make your code even better.
+
 Start by looking at the input and dictionary files, what differences do you notice between how the words are stored?
 
 IMPORTANT Note: If you discover that your program is running out of memory, find a way to increase the heap size of the Java Virtual Machine (JVM).
