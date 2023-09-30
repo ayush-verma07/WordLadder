@@ -16,6 +16,7 @@ Remember that there may be more than one ladder between the start word and the e
 If done correctly, your program should produce the output seen in the "output.txt" file.  
 
 **Pieces of Advice:**
+
 Test your methods as you go – don't wait until you've coded the entire project to test that individual components work.
 
 Make your algorithim efficient (otherwise it'll take up to an hour to receive output!). If you test my algorithim, you will notice that it is able to print the first 8 pairs (from the input file) after a minute, however it will take 10-15mins to print all outputs. So, try to find some innovative ways to make your code even better.
